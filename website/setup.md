@@ -49,7 +49,7 @@ Let's go through this template step by step:
 * `user`: the GitHub (or other hosting platform) account name under which the project is hosted
 * `authors`: your authorship details 
 * `julia=v"1.11"`: sets the minimum Julia version requirement to 1.11 for package compatibility.
-    Usually, developers strive to support the last long-term support (LTS) release of Julia, which currently is 1.6.
+    Usually, developers strive to support the last long-term support (LTS) release of Julia, which currently is 1.10.
     Since this is the first package we write, we only target 1.11. 
     Thanks to packages like [Compat.jl](https://github.com/JuliaLang/Compat.jl), backwards compatibility is usually easy to achieve.
   
@@ -60,8 +60,6 @@ We also use the following `plugins` to customize our template, most of which are
 * `GitHubActions()`: set up continuous integration (CI) via GitHub Actions to run our package tests.
 * `Codecov()`: set up CodeCov to assess code coverage. This tells you how much of your code is covered by package tests.
 * `Documenter{GitHubActions}()`: use [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) to generate package documentation. Build the documentation using GitHub and deploy it via [GitHub Pages](https://pages.github.com/).
-* `Formatter(; style="blue")`: tells JuliaFormatter.jl and the Julia VSCode extension 
-  to use the [Blue code style](https://github.com/JuliaDiff/BlueStyle) for automatic code formatting 
 
 After you created the template, run 
 ```julia-repl
