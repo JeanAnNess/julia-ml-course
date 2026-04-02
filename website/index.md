@@ -108,17 +108,17 @@ If you do not register on time, you cannot pass the course.
 ![JuML course timeline](/assets/timeline.png)
 
 * **Course Period:**  April 13th 2026 - July 21st 2026
-  * **Kick-off meeting:** TBA
-  * **Project meetings:** TBA
+  * **Kick-off meeting:** Tuesday, April 14th, 16:15-17:45, H 2038
+  * **Project meetings:** Tuesdays, 16:15-17:45, MAR 0.016
   * **Office hours:** TBA
 
-Attendance is mandatory for lectures in the following weeks:
-* Week 1:  13.04-17.04.26
-* Week 6:  18.05-22.05.26
-* Week 9:  08.06-12.06.26
-* Week 12: 29.06-03.07.26
-* Week 14: 13.07-17.07.26
-* Week 15: 20.07-24.07.26
+Attendance is mandatory for lectures on the following dates:
+* Tuesday, 14.04.26#
+* Tuesday, 19.05.26
+* Tuesday, 09.06.26
+* Tuesday, 30.06.26
+* Tuesday, 14.06.26
+* Tuesday, 21.07.26
 
 The date of the final examination will be determined on a group-by-group basis.
 
