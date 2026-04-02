@@ -113,7 +113,7 @@ If you do not register on time, you cannot pass the course.
   * **Office hours:** TBA
 
 Attendance is mandatory for lectures on the following dates:
-* Tuesday, 14.04.26#
+* Tuesday, 14.04.26
 * Tuesday, 19.05.26
 * Tuesday, 09.06.26
 * Tuesday, 30.06.26
