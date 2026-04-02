@@ -107,18 +107,18 @@ If you do not register on time, you cannot pass the course.
 
 ![JuML course timeline](/assets/timeline.png)
 
-* **Course Period:**  October 14th 2025 - February 10th 2026
-  * **Kick-off meeting:** Tuesday, October 14th, 16:15-17:45, MA 0.42
-  * **Project meetings:** Tuesdays, 16:15-17:45, MAR 0.011
+* **Course Period:**  April 13th 2026 - July 21st 2026
+  * **Kick-off meeting:** Tuesday, April 14th, 16:15-17:45, H 2038
+  * **Project meetings:** Tuesdays, 16:15-17:45, MAR 0.016
   * **Office hours:** TBA
 
-Attendance is mandatory on the following dates:
-* Tuesday, 14.10.25
-* Tuesday, 18.11.25
-* Tuesday, 16.12.25
-* Tuesday, 20.01.25
-* Tuesday, 03.02.26
-* Tuesday, 10.02.26
+Attendance is mandatory for lectures on the following dates:
+* Tuesday, 14.04.26
+* Tuesday, 19.05.26
+* Tuesday, 09.06.26
+* Tuesday, 30.06.26
+* Tuesday, 14.06.26
+* Tuesday, 21.07.26
 
 The date of the final examination will be determined on a group-by-group basis.
 
@@ -171,8 +171,8 @@ Many thanks to
 - [Fons van der Plas](https://github.com/fonsp) for making Pluto and helping me build this website
 - [Niklas Schmitz](https://github.com/niklasschmitz) for feedback on the AD lecture
 - [Janes Sanne](https://github.com/JeanAnNess),
-  [Dr. Andreas Ziehe](https://web.ml.tu-berlin.de/author/dr.-andreas-ziehe/) and
-  [Philip Naumann](https://web.ml.tu-berlin.de/author/philip-naumann/) 
+  [Dr. Andreas Ziehe](https://web.ml.tu-berlin.de/author/dr.-andreas-ziehe/), [Alex Vasileiou](https://github.com/alevas),  and
+  [Florian Fiebig](https://github.com/florianGithub) 
   for their help with teaching the course at TU Berlin
 - [Théo Galy-Fajou](https://github.com/theogf) and [Johnny Chen](https://github.com/johnnychen94) for their mentorship
 - everyone who contributed to the packages covered in this lecture
